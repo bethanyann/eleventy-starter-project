@@ -115,6 +115,7 @@ Contents
 
 ## Using Forestry as your CMS
 
+<!--
 This project is preconfigured to work with Forestry as a way to manage your content. Forestry makes changes by editing markdown or data files, uploading media to the correct directory and committing these updates to your repo directly.
 
 Eleventy Duo has Forestry CMS pre-configured as standard. You can customize the configuration by editing `.forestry/settings.yml.`
@@ -139,7 +140,7 @@ The basic CMS setup allows you to edit the following:
 
 You can add new blog posts, [data files](https://forestry.io/docs/editing/data-files/), or entire pages to fit your needs. You can also customize [how media is handled](https://forestry.io/docs/media/), by configurating gitLFS, Cloudinary, S3, or Netlify Large Media.
 
-You can set up a [remote admin](https://forestry.io/docs/editing/remote-admin/) for content editors to log in directly to yoururl.com/admin to make content updates.
+You can set up a [remote admin](https://forestry.io/docs/editing/remote-admin/) for content editors to log in directly to yoururl.com/admin to make content updates. -->
 
 ## Deployment
 
