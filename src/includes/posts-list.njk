@@ -6,10 +6,8 @@
           <time datetime="{{ post.date | htmlDateString }}">
             {{ post.date | readableDate }}
           </time>
-          <span> | </span>
-          <span>{{ post | readingTime }} read</span>
         </div>
-
+        
         <div class="post-list__tags">
           {% for tag in post.data.tags %}
             {%- if collections.tagList.indexOf(tag) != -1 -%}
